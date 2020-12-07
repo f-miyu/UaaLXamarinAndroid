@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">UaaLXamarinAndroid</string>
+    <string name="action_settings">Settings</string>
+    <string name="game_view_content_description">Game view</string>
+</resources>

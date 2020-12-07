@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.808.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UaaLXamarinAndroid", "UaaLXamarinAndroid\UaaLXamarinAndroid.csproj", "{ED83C581-3181-4B2C-AAA9-3FD9BDE59435}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UaaLLibrary", "UaaLLibrary\UaaLLibrary.csproj", "{433C3BC7-62EC-4EB7-90F8-A0A15DB9C680}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED83C581-3181-4B2C-AAA9-3FD9BDE59435}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED83C581-3181-4B2C-AAA9-3FD9BDE59435}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED83C581-3181-4B2C-AAA9-3FD9BDE59435}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED83C581-3181-4B2C-AAA9-3FD9BDE59435}.Release|Any CPU.Build.0 = Release|Any CPU
+		{433C3BC7-62EC-4EB7-90F8-A0A15DB9C680}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{433C3BC7-62EC-4EB7-90F8-A0A15DB9C680}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{433C3BC7-62EC-4EB7-90F8-A0A15DB9C680}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{433C3BC7-62EC-4EB7-90F8-A0A15DB9C680}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02AEE598-2326-47B3-9725-9B46CBE6BB57}
+	EndGlobalSection
+EndGlobal
